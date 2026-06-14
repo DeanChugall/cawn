@@ -6,6 +6,10 @@ export default defineConfig({
 
   base: '/',
 
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }]
+  ],
+
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
