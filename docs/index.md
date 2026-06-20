@@ -23,6 +23,10 @@ features:
   #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elitdsdf
 ---
 
+<a href="/images/wb_dash_1.png" target="_blank">
+  <img src="/images/wb_dash_1.png" alt="W&B Acoustic Gates and Training Dynamics" style="cursor: pointer; border-radius: 8px; border: 1px solid #333;" />
+</a>
+
 ```text
 ☁️ [ OBLAK PODATAKA ]      Ulazni Tokeni (Tekst / Znanje)
           │
