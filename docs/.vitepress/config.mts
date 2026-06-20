@@ -21,7 +21,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'DevLog', link: '/devlog/day-1-2-waking-up' },
+      { text: 'DevLog', link: '/devlog/1k_steps' },
       { text: '🔴 Live Dashboard', link: 'https://api.wandb.ai/links/datatabns/zlc202ix' }
     ],
 
@@ -30,13 +30,14 @@ export default defineConfig({
         text: 'About CAWN',
         items: [
           { text: 'Architecture Overview', link: '/architecture' },
-          { text: 'Holographic Phase Binding', link: '/holographic-memory' }
+          { text: 'Holographic Phase Binding', link: '/holographic-memory' },
+          { text: 'Training Specs & Telemetry', link: '/devlog/training-specs' }
         ]
       },
       {
         text: 'Live Pre-training DevLog',
         items: [
-          { text: 'Day 1-2: Waking the Ocean', link: '/devlog/day-1-2-waking-up' }
+          { text: '1k Steps: Waking the Ocean', link: '/devlog/1k_steps' }
         ]
       }
     ],

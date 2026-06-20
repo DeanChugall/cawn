@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "CAWN V21"
+  name: "CAWN"
   text: "Continuous Acoustic Wave Networks"
   tagline: A pure linear-time O(L) sequence model that completely discards the O(L²) Transformer Attention wall. Infinite context, flat VRAM.
   image:
@@ -14,7 +14,7 @@ hero:
       link: /architecture
     - theme: alt
       text: 🔴 Live DevLog
-      link: /devlog/day-1-2-waking-up
+      link: /devlog/1k_steps
 
 features:
   - title: 🌊 Holographic Phase Binding
